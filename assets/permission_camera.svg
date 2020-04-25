@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="327" height="70" viewBox="0 0 71 70" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="a">
+      <rect width="327" height="70" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="b" x1="1" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#986eff"/>
+      <stop offset="1" stop-color="#6d5cff"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#a)">
+    <path d="M115.715,63.712c58.682,21.166,49.9,50.189,42.971,68.268C147.832,160.307,68.032,249.713,10.059,87.373c-24.912-69.756.08-95.528,35.361-85.168C79.745,12.286,79.392,50.613,115.715,63.712Z" transform="translate(-93.195 -74.564)" fill="url(#b)"/>
+  </g>
+  <g transform="translate(21 21.667)">
+    <g transform="translate(0)">
+      <path d="M26.667,20H3.334A3.337,3.337,0,0,1,0,16.667V3.334A3.337,3.337,0,0,1,3.334,0H26.667A3.337,3.337,0,0,1,30,3.334V16.667A3.336,3.336,0,0,1,26.667,20ZM15,3.334A6.667,6.667,0,1,0,21.667,10,6.674,6.674,0,0,0,15,3.334Z" transform="translate(0 6.667)" fill="#fff"/>
+      <path d="M8.333,0H1.667a1.667,1.667,0,0,0,0,3.333H8.333A1.667,1.667,0,1,0,8.333,0Z" transform="translate(10)" fill="#fff"/>
+      <path d="M3.333,6.667A3.333,3.333,0,1,0,0,3.333,3.333,3.333,0,0,0,3.333,6.667Z" transform="translate(11.667 13.333)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

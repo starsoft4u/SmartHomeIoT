@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="327" height="70" viewBox="0 0 73 70" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="a">
+      <rect width="327" height="70" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="b" x1="1" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#986eff"/>
+      <stop offset="1" stop-color="#6d5cff"/>
+    </linearGradient>
+    <clipPath id="c">
+      <path d="M26.667,26.667h-20a1.667,1.667,0,0,0,0,3.333h20v1.667A1.519,1.519,0,0,1,25,33.333H5a4.871,4.871,0,0,1-5-5V5A4.871,4.871,0,0,1,5,0H25a1.519,1.519,0,0,1,1.667,1.667Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#a)">
+    <path d="M116.852,116.279c22.525,58.174-5.142,70.587-23.331,77.218-28.5,10.392-148.328,8.822-63.843-141.435C65.98-12.5,101.827-10.55,117.154,22.874,132.066,55.393,102.908,80.272,116.852,116.279Z" transform="translate(-52.747 -84.727)" fill="url(#b)"/>
+  </g>
+  <g transform="translate(22.667 18.333)">
+    <path d="M26.667,26.667h-20a1.667,1.667,0,0,0,0,3.333h20v1.667A1.519,1.519,0,0,1,25,33.333H5a4.871,4.871,0,0,1-5-5V5A4.871,4.871,0,0,1,5,0H25a1.519,1.519,0,0,1,1.667,1.667Z" fill="none"/>
+    <g clip-path="url(#c)">
+      <path d="M26.667,26.667h-20a1.667,1.667,0,0,0,0,3.333h20v1.667A1.519,1.519,0,0,1,25,33.333H5a4.871,4.871,0,0,1-5-5V5A4.871,4.871,0,0,1,5,0H25a1.519,1.519,0,0,1,1.667,1.667Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

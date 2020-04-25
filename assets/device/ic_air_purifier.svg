@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="27" height="30" viewBox="0 0 27 30" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(0.814815, 0, 0, 0.814815, 2.499997, 2.777775)">
+    <path d="M 4.5 2.857 C 3.691 2.838 3.02 3.477 3 4.286 L 3 8.571 L 24 8.571 L 24 4.286 C 23.98 3.477 23.309 2.838 22.5 2.857 Z" fill="#48465b"/>
+    <path d="M 4.5 0 L 22.5 0 C 24.925 -0.056 26.938 1.861 27 4.286 L 27 25.714 C 26.938 28.139 24.925 30.056 22.5 30 L 4.5 30 C 2.075 30.056 0.062 28.139 0 25.714 L 0 4.286 C 0.062 1.861 2.075 -0.056 4.5 0 Z" fill="#48465b"/>
+    <path d="M 13.5 27.857 C 18.351 27.973 22.379 24.137 22.5 19.286 C 22.379 14.435 18.351 10.598 13.5 10.714 C 8.649 10.598 4.621 14.434 4.5 19.285 C 4.621 24.136 8.649 27.973 13.5 27.857 Z" fill="#48465b"/>
+    <g transform="matrix(1, 0, 0, 1, 4784.5, 8201)">
+      <rect width="6" height="2" transform="translate(-4781 -8197)" fill="#fff"/>
+      <rect width="6" height="2" transform="translate(-4774 -8197)" fill="#fff"/>
+      <rect width="6" height="2" transform="translate(-4767 -8197)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 4784.5, 8201)">
+      <g transform="translate(0 3)">
+        <rect width="6" height="2" transform="translate(-4781 -8197)" fill="#fff"/>
+        <rect width="6" height="2" transform="translate(-4774 -8197)" fill="#fff"/>
+        <rect width="6" height="2" transform="translate(-4767 -8197)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="327" height="70" viewBox="0 0 75 70" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="a">
+      <rect width="327" height="70" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="b" x1="1" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#986eff"/>
+      <stop offset="1" stop-color="#6d5cff"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#a)">
+    <path d="M120.533,120.232c11.011,61.4-18.516,68.309-37.637,71.348C52.937,196.343-64.39,171.937,47.214,40.561,95.168-15.892,129.983-7.134,138.651,28.6,147.084,63.367,113.715,82.225,120.533,120.232Z" transform="translate(-66.476 -43.863)" fill="url(#b)"/>
+  </g>
+  <g transform="translate(16 15)">
+    <g transform="translate(6.667 6.667)">
+      <path d="M24.167,15a2.5,2.5,0,0,1,0,5H2.5a2.5,2.5,0,0,1-.241-4.989L2.5,15a2.793,2.793,0,0,0,2.776-2.485l.654-5.889a7.448,7.448,0,0,1,14.806,0l.654,5.889a2.793,2.793,0,0,0,2.527,2.474Z" fill="#fff"/>
+      <path d="M6.667,3.333A3.333,3.333,0,1,0,3.333,6.667,3.333,3.333,0,0,0,6.667,3.333Z" transform="translate(10 21.667)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
